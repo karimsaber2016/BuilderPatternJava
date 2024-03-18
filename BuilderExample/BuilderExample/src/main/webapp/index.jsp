@@ -1,9 +1,4 @@
 <jsp:useBean id="product" scope="request" type="com.example.model.Product"/>
-<%--<html>--%>
-<%--<body>--%>
-<%--<h2>Hello World!</h2>--%>
-<%--</body>--%>
-<%--</html>--%>
 <!DOCTYPE html>
 <html>
 <head>
